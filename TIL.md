@@ -28,4 +28,7 @@ Today I updated my about-me and coding journey paragraphs. I wanted to try makin
 I have also added a things i love.html. I have to say I am so happy with how my navigation bar works. It fills me with so much joy that when you click on the links they work!
 So today I have added a name input, email input and a message input to my contact form. Made two new files, and learnt how to change my syntax to multilines. 
 
+Sunday 30th November 2025
 
+Today I started by adding some images to my main index.html page and the things i love page. They came out quite large so I had to add a style (in line text) to make it smaller. I am still trying to avoid any CSS for now so I can max out what can be done just using HTML. One was taller than the other so then i learnt about adding the height and object-fit:cover; This worked great. I then asked Chat GPT how I can max out what there is to learn with HTML. I tidied up my code by adding a header and main element. 
+I added a books and games header to things i love and I linked my good reads profile to the goodreads logo. The file was confusing me as I didn't notice it was a JPEG instead of JPG. It didn't take me long to figure it out. 
