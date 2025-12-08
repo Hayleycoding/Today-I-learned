@@ -47,4 +47,9 @@ Sunday 7th December
 
 Today I don't have a lot of time so I decided to add a submit button to my contact form and Chat GPT taught me to link it to a formspree which will send responses to my email address. It also tidied up the form and made it look a lot nicer. I can see how easy it would be to just get Chat GPT to make the whole thing but i'm taking it slow and building it myself then learning how to change it and add things that I don't know about.  
 
+Monday 8th December
+
+Today I completed some more of HTML on FCC. I am on 259/276. I am hoping I can get this finished tomorrow and start on CSS. I am really excited for that and to see how much I can imporve my website. I have felt some imposter syndrome today, worried about how I don't have as much time as everyone else but I am not going to stop. 
+
+
 
