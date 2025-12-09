@@ -51,5 +51,7 @@ Monday 8th December
 
 Today I completed some more of HTML on FCC. I am on 259/276. I am hoping I can get this finished tomorrow and start on CSS. I am really excited for that and to see how much I can imporve my website. I have felt some imposter syndrome today, worried about how I don't have as much time as everyone else but I am not going to stop. 
 
+Tuesday 9th December
 
+I didn't get the HTML complete but I am so close. I have a lot more time tomorrow so I am hoping to get a good few hours in. Today I learnt about more ways to make websites accessible including, aria-hidden, aria-describedby. 
 
