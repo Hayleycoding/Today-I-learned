@@ -59,4 +59,7 @@ Wednesday 10th December
 
 I finished the HTML part and then I completed the extra computing section that has been added in since I started. I have begun CSS and I am so excited to put it to the test on my website. As it is the christmas period fast approaching and I have two young children, I won't be able to sit and code as much as I would like and that's ok because they won't always be this young. I will dedicate what time I can. I have a book I want to read called "She's in CTRL" by Anne Marie Imafidon. And I will listen to Free Code Camps new podcast on Friday. I need to find some other tech related pod casts to listen to. 
 
+Friday 12th December
+
+Today I am on CSS on FCC. I am reading through some basics of HTML that I do know already but one thing that I noticed I haven't seen before is the <hr> element. I went straight to my webpage and added it in and I am so chuffed honeslty, this is how I know I am meant to code. I love these new things I can add, no matter how small. As I carried on learning I also noticed I like the border around the images so I added that to my page. It didn't work on one photo and I wasn't sure why but it was that I had an image without a figure element so I wrapped figire around the image. I then added iframe into it so it wrapped around my video. 
 
