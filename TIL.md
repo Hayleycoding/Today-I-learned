@@ -1,6 +1,6 @@
 Today I learned
 
-27th November 25'
+Monday 27th November 25'
 
 Today I learned more about what happened last night when I tried to add an about me to my website. I have learnt the HTML basics from Free Code Camp on what to add to the website and how to add a nav (navigation) bar. I added one for the about me section. Eventually I will make it so it opens a new page, but I got lost in the GITHub hole and really enjoyed how it kept breaking. I learnt that it wouldn't push it because of the changes made and it opened VIM which I had no idea how to get out of. Since learned ESC, :wq means save and quit. I also learned that git commit -m "ENTER MESSAGE HERE" is how I can name my file/commit without it opening VIM and confusing me. 
 I am currently making a new repo called "Today I learned" and think this is a cool way for me to jot down what I have learned everyday and keep a diary. I have tried doing this the old fashioned way with paper and pen but I love this idea of keeping it digital and it will also count to me being active on GITHub. 
@@ -12,7 +12,7 @@ I carried on and learnt how to make folders but then decided I didn't need lots 
 rm r (foldername) deletes a folder and files in it
 rm (filename) deletes a file
 
-28th Novemeber 25'
+Tuesday 28th November 25'
 
 Today I started with updating my website. I added a footer element, made a new, seperate page for my about-me to open up when you click on it and changed the style of the nav bar. I did the footer and the about me page myself but, I had to find out how to style the nav bar as it's CSS which I havent done yet. 
 Mistakes were made but, that is how we learn. I left the # on the about-me so the href didn't work. I also put the footer element outside of the body. I missed a closed section tag that I needed to delete. 
@@ -60,7 +60,7 @@ I finished the HTML part and then I completed the extra computing section that h
 
 Friday 12th December 25'
 
-Today I am on CSS on FCC. I am reading through some basics of HTML that I do know already but one thing that I noticed I haven't seen before is the <hr> element. I went straight to my webpage and added it in and I am so chuffed honeslty, this is how I know I am meant to code. I love these new things I can add, no matter how small. As I carried on learning I also noticed I like the border around the images so I added that to my page. It didn't work on one photo and I wasn't sure why but it was that I had an image without a figure element so I wrapped figire around the image. I then added iframe into it so it wrapped around my video. 
+Today I am on CSS on FCC. I am reading through some basics of HTML that I do know already but one thing that I noticed I haven't seen before is the "<hr>" element. I went straight to my webpage and added it in and I am so chuffed honeslty, this is how I know I am meant to code. I love these new things I can add, no matter how small. As I carried on learning I also noticed I like the border around the images so I added that to my page. It didn't work on one photo and I wasn't sure why but it was that I had an image without a figure element so I wrapped figire around the image. I then added iframe into it so it wrapped around my video. 
 
 Saturday 13th December 25'
 
@@ -90,3 +90,11 @@ Continuing FCC. I have learnt about Figma and downloaded this. I am looking forw
 Saturday 3rd January 26'
 
 Today I have spent an hour n half going through more of FCC. Today though I am at a small standstill as I am having trouble understanding the absolute/relative units. The parent/child relationship with em and rem. I haven't been able to visualise it from just reading it so tomorrow I plan to play around with it in codepen and hope I can pick it up quickly before moving on. I think a lot of it is to do with all this new language that is just not in my vocab yet so I need to factor that in too. I am not stupid I am just learning so much. 
+
+Sunday 4th January 26'
+
+Today I spent an hour going over how em and rem work and are used. I understand it now and it makes sense to me why I would use that when building things it is just that because i already learnt about px it's now like huh, I have to change all of that. I am still not sure how I would use it on my website so I will continue to learn about it so I can change and adapt my website. I am carrying on with FCC and on Pseudo classes which I do already understand most of the link type ones such as hover, active, visited etc. I now know there are many other types. I went on my website and discovered I had clearly used a piece of code that I didn't understand and that was font-size: 0.9 rem in my footer. I played around with the sizing to watch it change. 
+I am trying to keep track of the time I spend coding but not let it rule me. It is obvious that the more time I spend the better I will be but I want to be clear I understand enough before moving on. Today I have dedicated 2 hours15 minutes with some distractions. 
+
+Monday 5th January 26'
+
