@@ -98,3 +98,6 @@ I am trying to keep track of the time I spend coding but not let it rule me. It 
 
 Monday 5th January 26'
 
+Today I am continuing with FCC and trying to remember what I can change to things it ask of me. For example today I had to make a card and I remembered from yesterday that rem is better used in cards. So it asked me to use 400px and chat GPT told me that the rem would be 25rem. If the font is 16px so you would divide 400 px by 16 px to get 25 and thats your scalable rem. Also it was 40px elsewhere and it said that would be 2.5rem. I like how I can see now that its not that you don't use pixels its that you visualise it in pixels first then you can put in your rem. I have just learnt the transfrom scale element and I really like this one. I am thinking how I can add it to my website. 
+I completed a lot on FCC today I was working for 3 hours. I am also documenting my journey on TikTok. I am proud of what I achieved today. 
+216/1191
