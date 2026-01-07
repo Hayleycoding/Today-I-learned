@@ -106,3 +106,10 @@ Tuesday 6th January 26'
 
 Wow. I have spent so many hours stuck on building a job application form. I mean I can't expect to know it after this short amount spent on it but I tried really hard to find it in my brain without asking Chat GPT. In the end I nearly did it and I accidently deleted all my hard work ! So I had to ask Chat GPT but even then I noticed things that it missed so it can be helpful but you still need to know what you are looking at and what it gives you vs what you asked for. 
 I was about to do a test on there and I saw that more links have been added to basic HTML and earlier on in CSS. Quite frustrating as now I have even more to complete and have to keep going back. On the plus side I guess going back is making sure I remember so I won't complain too much. I passed the pseudo class quiz after the thrid attempt but I am glad because I had to take extra time to learn it and pass it properly. 
+
+Wednesday 7th January 26'
+
+9:45am. I am trying to be more detailed in my TIL. So today I have noticed some bits have been added to the FCC HTML or I wonder if there is a mistake and it's saved as if I haven't done it because I know there are regualr updates and i remember doing what it says I haven't done. (embed a video)
+Nonetheless, I will complete it. 
+I completed the extra HTML and CSS that had been added in. It was about CSS specificity which I found interesting and helpful. I then completed an 89 step task on building coloured markers! I learnt a lot about the different ways to code color, gradient, opacity etc.
+322/1191
