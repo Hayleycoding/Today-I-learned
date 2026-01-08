@@ -112,4 +112,9 @@ Wednesday 7th January 26'
 9:45am. I am trying to be more detailed in my TIL. So today I have noticed some bits have been added to the FCC HTML or I wonder if there is a mistake and it's saved as if I haven't done it because I know there are regualr updates and i remember doing what it says I haven't done. (embed a video)
 Nonetheless, I will complete it. 
 I completed the extra HTML and CSS that had been added in. It was about CSS specificity which I found interesting and helpful. I then completed an 89 step task on building coloured markers! I learnt a lot about the different ways to code color, gradient, opacity etc.
-322/1191
+322/1191 - Today I completed 3 hours. 
+
+Thursday 8th January 26' 
+
+9:45am - Today I am continuing with FCC and colors in CSS. I did a review and a quiz on that and it took me three attempts mainly because I missed silly mistakes not because I didn't understand it. Then I built a 60 step registration form and used '[type="]'for the first time and found that interesting. I also found I am remebering how to do certain things like margin 0 auto to center things. I really enjoyed making this today as a lot was just clicking. 
+389/1191 - I have spent 3 hours today again in total. 
