@@ -118,3 +118,9 @@ Thursday 8th January 26'
 
 9:45am - Today I am continuing with FCC and colors in CSS. I did a review and a quiz on that and it took me three attempts mainly because I missed silly mistakes not because I didn't understand it. Then I built a 60 step registration form and used '[type="]'for the first time and found that interesting. I also found I am remebering how to do certain things like margin 0 auto to center things. I really enjoyed making this today as a lot was just clicking. 
 389/1191 - I have spent 3 hours today again in total. 
+
+Friday 9th January 26'
+
+Today I am continuing FCC. I don't have three hours but I am still showing up. I have just made my own contact form and I really enjoyed doing it. I amde my own colours using  rgb() rgba() and managed to remember a lot myself. I noticed some of the things I put in were unnecessary and I did need a little bit of help from chat GPT to align my inputs but I did a lot myself. 
+Now I am building a game settings panel. 
+409/1191. 2 n half hours today. I built a few things and I struggled with how to border my cards. I did not know how to get a checkbox in a certain place so that is something to learn for another day. 
