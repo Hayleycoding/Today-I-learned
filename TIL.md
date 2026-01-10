@@ -124,3 +124,8 @@ Friday 9th January 26'
 Today I am continuing FCC. I don't have three hours but I am still showing up. I have just made my own contact form and I really enjoyed doing it. I amde my own colours using  rgb() rgba() and managed to remember a lot myself. I noticed some of the things I put in were unnecessary and I did need a little bit of help from chat GPT to align my inputs but I did a lot myself. 
 Now I am building a game settings panel. 
 409/1191. 2 n half hours today. I built a few things and I struggled with how to border my cards. I did not know how to get a checkbox in a certain place so that is something to learn for another day. 
+
+Saturday 10th January 26'
+
+1 hour today. I did some FCC and I am not sure on the number as I have stopped halfway through a task so will update that tomorrow with a fresh mind and eyes.
+
