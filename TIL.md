@@ -129,3 +129,8 @@ Saturday 10th January 26'
 
 1 hour today. I did some FCC and I am not sure on the number as I have stopped halfway through a task so will update that tomorrow with a fresh mind and eyes.
 
+Sunday 11th January 26'
+
+I have spent extra time today as I won't get much done tomorow or Thursday. 
+I have spent 2 hours trying to work out why my id elements on a FCC confidential email task wasn't working and I found chat GPT to be most unhelpful. In the end it finally told me but I solved a lot of my code myself as it just wasn't being helpful ignoring certain things I had to have. Still all time spent is a good thing because we earn more when something is broken so I enjoyed trying to figure it out. In the end it was the parent container display needed changing. 
+463/1191
