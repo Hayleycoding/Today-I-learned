@@ -131,6 +131,13 @@ Saturday 10th January 26'
 
 Sunday 11th January 26'
 
-I have spent extra time today as I won't get much done tomorow or Thursday. 
+I have spent extra time today as I won't get much done tomorrow or Thursday. 
 I have spent 2 hours trying to work out why my id elements on a FCC confidential email task wasn't working and I found chat GPT to be most unhelpful. In the end it finally told me but I solved a lot of my code myself as it just wasn't being helpful ignoring certain things I had to have. Still all time spent is a good thing because we earn more when something is broken so I enjoyed trying to figure it out. In the end it was the parent container display needed changing. 
 463/1191
+
+Monday 12th January 26'
+
+Last night I set myself a deadline to finish CSS by 12th Feb. That gives me an average of 23 tasks a day. I have some sporadic days coming up but I will try my best to get in 3 hours a day. Today I have managed 2 n half hours and managed to go over by 9 tasks. Hopefully I can keep it up as some tasks can take me a long time. 
+Today I made three playing cards and learnt about font and flex-box.
+495/1191
+
