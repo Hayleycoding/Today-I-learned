@@ -141,3 +141,15 @@ Last night I set myself a deadline to finish CSS by 12th Feb. That gives me an a
 Today I made three playing cards and learnt about font and flex-box.
 495/1191
 
+Tuesday 13th January 26'
+Steps: 566/1191
+Time spent: 3hrs 20mins
+
+Today I am continuing FCC CSS. I feel more motivated now I have a target date to finish it by. Today is about flexbox and typography. 
+I lost all of my code right near the end, twice! So the first task took me way longer than it should have. 
+I did a big task which had 68 steps. I made a nutritional value chart.
+566/1191 this puts me above target but doing extra is allocating for potential days I wont have as much time.
+
+Wednesday 14th January 26' 
+Steps:   
+Time spent: 
