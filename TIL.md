@@ -151,5 +151,6 @@ I did a big task which had 68 steps. I made a nutritional value chart.
 566/1191 this puts me above target but doing extra is allocating for potential days I wont have as much time.
 
 Wednesday 14th January 26' 
-Steps:   
-Time spent: 
+Steps: 638/1191  
+Time spent: 4 hours
+Today I spent some time. One of the tasks had 67 steps and I had to finsih it so I have done extra today, probably more than 4 hours but I can't be sure. When I code the time just flies. I made a quiz webpage and passed my typography test. I am going to figure out how to add the pictures from what I have been making and remember to show it off on GitHub.
