@@ -1,0 +1,84 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css"/>
+    <link rel= "stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans)"/>
+    <title>Newspaper Article</title>
+  </head>
+  <body>
+    <div class="newspaper">
+<div class="name">
+  Hayley's Herald
+</div>
+<div class="date">14th Janauary 2026
+</div>
+<div class="headline">Hayley sticks with coding, now a paid developer
+</div>
+<div class="sub-headline">Months of learning, hours upon hours studying, paid off.
+</div>
+<div class="author"> Hayley Marie
+</div>
+  <p class="text">Hayley started coding November 2025 and decided that this time she wasn't going to give in. Previously over the past few years, she has tried and given up believing she isn't any good and many people will just be better and so she gave up. This time is different. She started believing in herself and she hasn't stopped. She gave herself targets, made it her whole personality and started to say she was a developer and got into the mindset. Her most important and helpful quote she lives by is "Consistency is the mother of mastery" - Robin Sharma. In other words, if you just keep doing a little bit everyday it will soon amount to mastering the subject you are trying to master.</p>
+ <p class="text"> This time Hayley kept going and it became apparent how much more she enjoyed it than she thought she would. Even being a parent and having a busy home life, she looked forward to those days where she knew she could sit down un-interrupted for 3 hours or more and just learn to code.</p>
+</div>
+  </body>
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+html{
+  font-size: 24px;
+}
+
+body{
+background-color: rgb(0, 255,200);
+}
+.newspaper{
+  font-size: 16px;
+  font-family:"Open Sans",sans-serif;
+  border: 2px solid black;
+  background-color: white;
+  height: 100vh;
+  width: 750px;
+}
+.name {
+  font-size: 2rem;
+  font-family: 'Times New Roman', serif;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.date{
+
+}
+.headline{
+font-size: 2em;
+font-weight: bold;
+}
+.sub-headline{
+  font-weight: 100;
+  font-size: 1.5em;
+  font-style: italic;
+
+}
+.author{
+text-transform:uppercase;
+font-weight: bold;
+
+}
+.text{
+  text-indent: 20px;
+  line-height: 2em;
+}
+.text::first-letter{
+font-weight: bold;
+font-size: 2em;
+}
+
+** end of styles.css **
+
