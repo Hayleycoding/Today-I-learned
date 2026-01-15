@@ -151,6 +151,13 @@ I did a big task which had 68 steps. I made a nutritional value chart.
 566/1191 this puts me above target but doing extra is allocating for potential days I wont have as much time.
 
 Wednesday 14th January 26' 
+
 Steps: 638/1191  
 Time spent: 4 hours
 Today I spent some time. One of the tasks had 67 steps and I had to finsih it so I have done extra today, probably more than 4 hours but I can't be sure. When I code the time just flies. I made a quiz webpage and passed my typography test. I am going to figure out how to add the pictures from what I have been making and remember to show it off on GitHub.
+
+Thursday 15th January 26'
+
+Steps: 726/1191
+Time spent: 2 1/2 hours
+I mamanged to get a lot done in that time so I am very happy as it means I should meet my target of completing CSS by 12th Feb. Quite realistically, earlier. Today I did a big task of making a cat face with CSS and focusing on the positioning. I learnt about asolute, relative, sticky, fixed positioning. I am going to see how I can upload a folder to this so I can show the work I have completed.
