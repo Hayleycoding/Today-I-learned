@@ -163,6 +163,12 @@ Time spent: 2 1/2 hours
 I mamanged to get a lot done in that time so I am very happy as it means I should meet my target of completing CSS by 12th Feb. Quite realistically, earlier. Today I did a big task of making a cat face with CSS and focusing on the positioning. I learnt about asolute, relative, sticky, fixed positioning. I am going to see how I can upload a folder to this so I can show the work I have completed.
 
 Friday 16th January 26'
+
 Steps: 798/1191
 Time spent: 2 1/2 hours
 Today I made a house picture with CSS focusing on positioning. I also made a bank balance sheet. I will add these pictures to my project folder. The bank balance was a mixture of everything I have learnt thus far using 3 tables, postioning, etc.
+
+Saturday 17th January 26'
+Steps: 800/1191
+Time spent: 2 hours
+Today I finished the postioning review and quiz and moved onto building a book inventory. I have got halfway through and need to stop as my daughter is poorly. I am really looking forward to finishing this tomorrow as I love to read and have added my own personally read books and ratings.
