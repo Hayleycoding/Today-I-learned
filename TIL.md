@@ -172,3 +172,10 @@ Saturday 17th January 26'
 Steps: 800/1191
 Time spent: 2 hours
 Today I finished the postioning review and quiz and moved onto building a book inventory. I have got halfway through and need to stop as my daughter is poorly. I am really looking forward to finishing this tomorrow as I love to read and have added my own personally read books and ratings.
+
+Sunday 18th January 26'
+Steps: 801/1191
+Time spent: 2 hours
+It took me ages to figure out how to do the inevntory. It was a certification prject, it's not my best I could have spent longer on it but I want to finish so I'll make my own when I finish responsive web design. I am going to go back and make a lot of the things again. I do think it's better when it keeps breaking because it actively teaches me and I watch it in real time.
+
+Monday 19th January 26'
