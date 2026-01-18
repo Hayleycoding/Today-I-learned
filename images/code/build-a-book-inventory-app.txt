@@ -1,0 +1,146 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Book Inventory</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <h1>Book Inventory</h1>
+  <table>
+  <thead>
+    <tr>
+      <th>Title </th>
+      <th>Author </th>
+      <th>Category </th>
+      <th>Status </th>
+      <th>Rate </th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr class="read">
+      <td>The Spellshop</td>
+    <td>Sarah Beth Durst </td>
+    <td>Fantasy Fiction </td>
+    <td><span class="status">Read</span></td>
+    <td><span class="rate three"><span></span><span></span><span></span>⭐⭐⭐</span></td>
+    </tr>
+    <tr class="read">
+      <td>The Enchanted Greenhouse</td>
+    <td>Sarah Beth Durst </td>
+    <td>Fantasy Fiction </td>
+    <td><span class="status">Read</span></td>
+    <td><span class="rate three"><span></span><span></span><span></span>⭐⭐⭐</span></td>
+    </tr>
+    <tr class="in-progress">
+      <td>Human Rites</td>
+    <td>Juno Dawson</td>
+    <td>Fantasy Fiction</td>
+    <td><span class="status">In Progress </span></td>
+    <td><span class="rate"><span></span><span></span><span></span>-</span></td>
+    </tr>
+    <tr class="to-read">
+      <td>Uncharmed</td>
+    <td>Lusy Jane Wood</td>
+    <td>Fantasy Fiction</td>
+    <td><span class="status">To Read</span></td>
+    <td><span class="rate"><span></span><span></span><span></span>-</span></td>
+    </tr>
+    <tr class="read">
+      <td>The Gingerbread Bakery</td>
+    <td>Laurie Gilmore</td>
+    <td>Fantasy Fiction</td>
+    <td><span class="status">Read</span></td>
+    <td><span class="rate one"><span></span><span></span><span></span>⭐</span></td>
+    </tr>
+    </tbody>
+</table>
+</body>
+
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+tr[class="read"]{
+background-image: linear-gradient(to right, #9ecc34, #96e6a1);
+border: 1px solid black;
+text-align: center;
+}
+tr[class="to-read"]{
+background-image: linear-gradient(to right, rgb(223, 215, 215), grey);
+text-align: center;  
+}
+tr[class="in-progress"]{
+  background-image: linear-gradient(to right,yellow, orange);
+}
+span{
+  display:inline-block;
+}
+tr[class="to-read"] span[class="status"]{
+  font-style: italic;
+  border: 0px solid black;
+  background-image: linear-gradient(to right, rgb(223, 215, 215), grey);
+  border-radius: 5px;
+}
+h1{
+  text-align: center;
+  font-family: arial, sans-serif;
+  border: 1px solid black;
+}
+tr[class="read"] span[class="status"]{
+ border: 0px solid black;
+ height:20px;
+ text-align: center;
+ background-image: linear-gradient(to right, #9ecc34, #96e6a1);
+}
+tr[class="in-progress"], span[class="status"]{
+ border: 0px solid black;
+ height: 25px; 
+ text-align: center;
+}
+span[class="status"],
+span[class^="rate"] {
+  width: 75px;
+  border-radius: 5px;
+  height: 20px;
+  padding: 0;
+}
+span[class^="rate"] > span {
+  border: 0px solid black;
+  border-radius: 5px;
+  margin: 0;
+  background-color: rgb(255, 200, 255);
+  height: 35px;
+  width: 0;
+}
+span[class~="one"] > span:first-child {
+background-image: linear-gradient(to right, rgb(255, 255,0), purple);
+}
+span[class~="two"] > span:nth-child(-n+2){
+background-image: linear-gradient(to right, rgb(255, 255,0), purple);
+}
+span[class~="three"] span{
+background-image: linear-gradient(to right, rgb(255, 255,0), purple);
+width: 0;
+}
+th{
+  border: 2px solid black;
+  border-radius: 5px;
+}
+td{
+  border: 1px solid black;
+  border-radius: 5px;
+}
+tr[class="in-progress"] span[class="status"]{
+  border: 0px solid black;
+background-image: linear-gradient(to right,yellow, orange);
+}
+
+** end of styles.css **
+
