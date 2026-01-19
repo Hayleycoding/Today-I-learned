@@ -169,13 +169,26 @@ Time spent: 2 1/2 hours
 Today I made a house picture with CSS focusing on positioning. I also made a bank balance sheet. I will add these pictures to my project folder. The bank balance was a mixture of everything I have learnt thus far using 3 tables, postioning, etc.
 
 Saturday 17th January 26'
+
 Steps: 800/1191
 Time spent: 2 hours
 Today I finished the postioning review and quiz and moved onto building a book inventory. I have got halfway through and need to stop as my daughter is poorly. I am really looking forward to finishing this tomorrow as I love to read and have added my own personally read books and ratings.
 
 Sunday 18th January 26'
+
 Steps: 801/1191
 Time spent: 2 hours
 It took me ages to figure out how to do the inevntory. It was a certification prject, it's not my best I could have spent longer on it but I want to finish so I'll make my own when I finish responsive web design. I am going to go back and make a lot of the things again. I do think it's better when it keeps breaking because it actively teaches me and I watch it in real time.
 
 Monday 19th January 26'
+
+Steps: 838/1191
+Time spent: 1 hour 1/2 
+
+Today I made a piano with CSS and completed some theory and the reviw and quiz. I have a certification project I will complete tomorrow and then I am on the final part of the Responsive Web Design Certificate. Once I have completed this I will go back and make some of the things I have learnt and add them to my website. I will then move on to JavaScript and I am really looking forward to that. 
+
+
+
+
+
+
