@@ -187,7 +187,12 @@ Time spent: 1 hour 1/2
 
 Today I made a piano with CSS and completed some theory and the reviw and quiz. I have a certification project I will complete tomorrow and then I am on the final part of the Responsive Web Design Certificate. Once I have completed this I will go back and make some of the things I have learnt and add them to my website. I will then move on to JavaScript and I am really looking forward to that. 
 
+Tuesday 20th Janurary 26'
 
+Steps: 839/1191
+Time spent: 4 hours +
+
+Wow. I thought this task would be easy but it took me hours. I had my first taste of finding the tiny mistake and when I found it I passed straight away but it took me so long and I had to go through the code line by line and pay attention. It is definitely teaching me to scour it intensely. I don't mind how long it takes because I believe no minute is wasted with this learning. I am learning to be patient, leanrning to not give up, learning to keep looking, learning to believe in myself and guess what I found it. Chat GPT didn;t even tell me the exact thing I was missing. 
 
 
 
