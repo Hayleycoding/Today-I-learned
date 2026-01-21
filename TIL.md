@@ -192,7 +192,15 @@ Tuesday 20th Janurary 26'
 Steps: 839/1191
 Time spent: 4 hours +
 
-Wow. I thought this task would be easy but it took me hours. I had my first taste of finding the tiny mistake and when I found it I passed straight away but it took me so long and I had to go through the code line by line and pay attention. It is definitely teaching me to scour it intensely. I don't mind how long it takes because I believe no minute is wasted with this learning. I am learning to be patient, leanrning to not give up, learning to keep looking, learning to believe in myself and guess what I found it. Chat GPT didn;t even tell me the exact thing I was missing. 
+Wow. I thought this task would be easy but it took me hours. I had my first taste of finding the tiny mistake and when I found it I passed straight away but it took me so long and I had to go through the code line by line and pay attention. It is definitely teaching me to scour it intensely. I don't mind how long it takes because I believe no minute is wasted with this learning. I am learning to be patient, learning to not give up, learning to keep looking, learning to believe in myself and guess what I found it. Chat GPT didn't even tell me the exact thing I was missing. It was an "s" btw. 
+
+Wednesday 21st January 26'
+
+Steps: 956/1191 
+Time spent: 3 1/2 hours
+
+I had a big project to work on with 115 steps so I made sure I could get on with that today. I will upload pics from it tomorrow. I kept getting very tiny mistakes like a comma in the wrong place. It is so satisfying when it's just that and not that you have written it all out wrong and have no idea what you are doing. 
+I am so close to the end of the RWDC now and I am excited to use what I have learnt and then move on. 
 
 
 
