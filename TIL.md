@@ -202,6 +202,15 @@ Time spent: 3 1/2 hours
 I had a big project to work on with 115 steps so I made sure I could get on with that today. I will upload pics from it tomorrow. I kept getting very tiny mistakes like a comma in the wrong place. It is so satisfying when it's just that and not that you have written it all out wrong and have no idea what you are doing. 
 I am so close to the end of the RWDC now and I am excited to use what I have learnt and then move on. 
 
+Thursday 22nd January 26'
+
+Steps: 957/1191
+Time spent: 2 hours
+
+Well the final part of a task took me a long time to figure out but to be fair I haven't come across it yet. It was the start end of color stops on the same line. I have only done it per line before so there was no way I would figure that out on my own. I still maintain it's good for me anyway because I am playing around so much trying ti find a way and just like Edison with the light bulb, I found many ways not to make it work.
+
+
+
 
 
 
