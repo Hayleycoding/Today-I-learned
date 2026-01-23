@@ -209,6 +209,12 @@ Time spent: 2 hours
 
 Well the final part of a task took me a long time to figure out but to be fair I haven't come across it yet. It was the start end of color stops on the same line. I have only done it per line before so there was no way I would figure that out on my own. I still maintain it's good for me anyway because I am playing around so much trying ti find a way and just like Edison with the light bulb, I found many ways not to make it work.
 
+Friday 23rd January 26'
+
+Steps: 959 /1191
+Time spent: 20 mins if that
+
+Sadly I haven't had much of a chance today i did the review and quiz and then ill be moving on to grid. 
 
 
 
