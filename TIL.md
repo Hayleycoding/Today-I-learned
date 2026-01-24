@@ -214,8 +214,14 @@ Friday 23rd January 26'
 Steps: 959 /1191
 Time spent: 20 mins if that
 
-Sadly I haven't had much of a chance today i did the review and quiz and then ill be moving on to grid. 
+Sadly I haven't had much of a chance today I did the review and quiz and then i'll be moving on to grid. 
 
+Saturday 24th January 26'
+
+Steps: 967/1191
+Time spent: 1 hour
+
+Not as much time as I would have liked but it is the weekend and it is important I get other things done and see the children. I finished the theory on CSS grid which I must admit, seems a little bamboozling but I am sure with practise I will understand it more. I am definitely more a doing person rather than just understanding with reading. 
 
 
 
