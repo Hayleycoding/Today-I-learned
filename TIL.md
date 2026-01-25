@@ -223,6 +223,10 @@ Time spent: 1 hour
 
 Not as much time as I would have liked but it is the weekend and it is important I get other things done and see the children. I finished the theory on CSS grid which I must admit, seems a little bamboozling but I am sure with practise I will understand it more. I am definitely more a doing person rather than just understanding with reading. 
 
+Sunday 25th January 26'
 
+Steps: 1046/1191
+Time spent: 
+I am building a magazine for my next task which contains 79 steps. I enjoyed this task as it was good to see how the CSS grid worked and adding a lot of media querys on the end. 
 
 
