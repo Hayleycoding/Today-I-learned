@@ -226,7 +226,12 @@ Not as much time as I would have liked but it is the weekend and it is important
 Sunday 25th January 26'
 
 Steps: 1046/1191
-Time spent: 
+Time spent: 2 hours
 I am building a magazine for my next task which contains 79 steps. I enjoyed this task as it was good to see how the CSS grid worked and adding a lot of media querys on the end. 
 
+Monday 26th January 26'
 
+Steps: 1046/1191
+Time spent: 1 hour of listening to a podcast
+
+I have only been able to listen to the FreeCodeCamp podcast today. Hoping to spend some good time coding tomorrow. 
