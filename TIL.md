@@ -235,3 +235,10 @@ Steps: 1046/1191
 Time spent: 1 hour of listening to a podcast
 
 I have only been able to listen to the FreeCodeCamp podcast today. Hoping to spend some good time coding tomorrow. 
+
+Tuesday 27th January 26'
+
+Steps: 1050/1191
+Time spent: 2 hours
+
+I made a newspaper layout page and used CSS grid throughout, I then passed the grid quiz. Tomorrow I start on animations. I am so close to the end now. I will then play around and build a few things before moving on to Javascript.
