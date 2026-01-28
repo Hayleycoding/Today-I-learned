@@ -242,3 +242,10 @@ Steps: 1050/1191
 Time spent: 2 hours
 
 I made a newspaper layout page and used CSS grid throughout, I then passed the grid quiz. Tomorrow I start on animations. I am so close to the end now. I will then play around and build a few things before moving on to Javascript.
+
+Wednesday 28th January 26'
+
+Steps: 1050/1191
+Time spent: 4 hours plus
+
+I have had so much fun building my very own landing page. I am loving it. I have found I am more creative as time goes on and as more and more is on the page. I still haven't finished but I have saved my code incase it gets lost. I am definitely going to build something similar for my real life landing page. 
