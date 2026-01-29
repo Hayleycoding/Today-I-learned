@@ -1,3 +1,6 @@
-.DS_Store
+# videos
 *.mov
 *.mp4
+
+# macOS
+.DS_Store
