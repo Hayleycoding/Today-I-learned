@@ -249,3 +249,17 @@ Steps: 1050/1191
 Time spent: 4 hours plus
 
 I have had so much fun building my very own landing page. I am loving it. I have found I am more creative as time goes on and as more and more is on the page. I still haven't finished but I have saved my code incase it gets lost. I am definitely going to build something similar for my real life landing page. 
+
+Thursday 29th January 26'
+
+Steps: 1082/1191
+Time spent: 2 hours
+
+I finished off my landing page project. I went above and beyond what they asked for but I wanted to make it real worthwhile and as close to a real one as possible. I have taken lots of screenshots to put in my project folder because I found out today that uploading mov files or screen recordings on to github is a no no. I had to fix that as I began uploading and Github rejected it and it was a little bit of a mess. I would not have known how to fix it without Chat GPT and I am still trying to understand some of the things you have to type in to Github. All I can remember is i had to force a push at the end. I made a ferris wheel animation which I really enjoyed. I was suprised how easy it was and I have noticed that I understand more about how things work with how far I have come.
+
+Friday 30th January 26'
+
+Steps: 1082/1191
+Time spent: 2 hours 
+
+I have listened to two freecodecamp podacsts today and I find these really insighful, especially with the amoutn of negative AI info thats going around telling people like me to not bother to learn. I have delered both my instagram and tik tok. I was previously trying to build them but I think they waste more time and energy when I can just focus on the actual learning. I will keep my linked in up to date and Github of course. 
