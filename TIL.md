@@ -263,3 +263,11 @@ Steps: 1082/1191
 Time spent: 2 hours 
 
 I have listened to two freecodecamp podacsts today and I find these really insighful, especially with the amoutn of negative AI info thats going around telling people like me to not bother to learn. I have delered both my instagram and tik tok. I was previously trying to build them but I think they waste more time and energy when I can just focus on the actual learning. I will keep my linked in up to date and Github of course. 
+
+Saturday 31st January 26'
+
+Steps: 1082/1191
+Time spent: 50 mins
+
+Today I completed the task that was build an orbit and I had to make a moon go round the earth. It was a little tricky but I mananaged it in the end. I tried not to use chat gpt but I asked it questions and to explain to me certain things like the short cut line for animation. 
+
