@@ -266,8 +266,15 @@ I have listened to two freecodecamp podacsts today and I find these really insig
 
 Saturday 31st January 26'
 
-Steps: 1082/1191
+Steps: 1083/1191
 Time spent: 50 mins
 
 Today I completed the task that was build an orbit and I had to make a moon go round the earth. It was a little tricky but I mananaged it in the end. I tried not to use chat gpt but I asked it questions and to explain to me certain things like the short cut line for animation. 
+
+Sunday 1st February 26'
+
+Steps: 1187/1191
+Time spent: 2 hours
+
+Today I made a penguin that waves using CSS and animation. I foundit really easy to folow instructions. I think I need ot look into the calc function more so I will look into this. I amd 4 steps away from completing the Responsive Web Design. I am so proud of myself. I am going to eventually look into how MCPs are made as I would like to do this for my webstie and look into it for future positions. 
 
