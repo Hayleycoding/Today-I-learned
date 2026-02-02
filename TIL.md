@@ -276,5 +276,11 @@ Sunday 1st February 26'
 Steps: 1187/1191
 Time spent: 2 hours
 
-Today I made a penguin that waves using CSS and animation. I foundit really easy to folow instructions. I think I need ot look into the calc function more so I will look into this. I amd 4 steps away from completing the Responsive Web Design. I am so proud of myself. I am going to eventually look into how MCPs are made as I would like to do this for my webstie and look into it for future positions. 
+Today I made a penguin that waves using CSS and animation. I found it really easy to follow instructions. I think I need to look into the calc function more so I will look into this. I am 4 steps away from completing the Responsive Web Design. I am so proud of myself. I am going to eventually look into how MCPs are made as I would like to do this for my webstie and look into it for future positions. 
 
+Monday 2nd February 26'
+
+Steps: 1187/1191
+Time spent: 2 hours
+
+Today I have been building a portfolio for my task. I am taking my time on it and really playing about learning it properly. I am hoping to use this as my main portfolio page. 
