@@ -284,3 +284,10 @@ Steps: 1187/1191
 Time spent: 2 hours
 
 Today I have been building a portfolio for my task. I am taking my time on it and really playing about learning it properly. I am hoping to use this as my main portfolio page. 
+
+Tuesday 3rd February 26'
+
+Steps: 1187/1191
+Time spent: 5 mins
+
+I am paintng my house but I don't want to miss my github streak so I played around with :hover and tried to get it to move slightly when the cursor hovers over the link on my webpage. It didn't work and Chatp GPT says its something to do with the display so I am going to look into this tomorrow. 
