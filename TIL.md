@@ -291,3 +291,10 @@ Steps: 1187/1191
 Time spent: 5 mins
 
 I am paintng my house but I don't want to miss my github streak so I played around with :hover and tried to get it to move slightly when the cursor hovers over the link on my webpage. It didn't work and Chatp GPT says its something to do with the display so I am going to look into this tomorrow. 
+
+Wednesday 4th February 26'
+
+Steps: 1187/1191
+Time spent: 5 mins
+
+Still painting but I took a break to figure out why my links weren't moving when they are hovered over. Chat GPT said that because it is set to inline-block its not noticeable enough with 2px so I changed it to 4px and now it works. I really like how simple it is but it really gives the impression that it's clever. 
