@@ -298,3 +298,10 @@ Steps: 1187/1191
 Time spent: 5 mins
 
 Still painting but I took a break to figure out why my links weren't moving when they are hovered over. Chat GPT said that because it is set to inline-block its not noticeable enough with 2px so I changed it to 4px and now it works. I really like how simple it is but it really gives the impression that it's clever. 
+
+Thursday 5th February 26'
+
+Steps: 1187/1191
+Time spent: 1 hour
+
+Using all my time painting at the moment but I listened to a FCC podcast and it was so interesting. I really learn a lot valuable information from them.
