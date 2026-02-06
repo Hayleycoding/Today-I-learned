@@ -305,3 +305,7 @@ Steps: 1187/1191
 Time spent: 1 hour
 
 Using all my time painting at the moment but I listened to a FCC podcast and it was so interesting. I really learn a lot valuable information from them.
+
+Friday 6th February 26'
+
+Read some of shes in ctrl still painting my house taking my time as once its done its done. 
