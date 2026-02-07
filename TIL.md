@@ -308,4 +308,14 @@ Using all my time painting at the moment but I listened to a FCC podcast and it 
 
 Friday 6th February 26'
 
-Read some of shes in ctrl still painting my house taking my time as once its done its done. 
+Steps: 1187/1191
+Time spent: 30 mins
+
+Read some of 'Shes in ctrl', still painting my house, taking my time as once its done its done. 
+
+Saturday 7th February 26'
+
+Steps: 1187/1191
+Time spent: 1 hour
+
+Today I fixed some things on step 1187 which is my portfolio. I fixed the navbar so when you scroll it stays at the top. I have missed coding ! I have done a lot of my painting at home. Still a lot to do but I have done so much I have blisters so time for a break and code instead. 
