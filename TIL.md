@@ -319,3 +319,10 @@ Steps: 1187/1191
 Time spent: 1 hour
 
 Today I fixed some things on step 1187 which is my portfolio. I fixed the navbar so when you scroll it stays at the top. I have missed coding ! I have done a lot of my painting at home. Still a lot to do but I have done so much I have blisters so time for a break and code instead. 
+
+Sunday 8th February 26'
+
+Steps: 1190/1191
+Time spent: 1 hour
+
+Today I finished my portfolio but I left it as a mock as I wanted to move on and get revising for my Responsive web design exam. 
