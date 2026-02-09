@@ -326,3 +326,11 @@ Steps: 1190/1191
 Time spent: 1 hour
 
 Today I finished my portfolio but I left it as a mock as I wanted to move on and get revising for my Responsive web design exam. 
+
+Monday 9th February 26'
+
+Steps: 1190/1191
+Time spent: 30 mins
+
+Today I did some revision on CSS to prepare for my exam that I will take soon. I am going to revise for the next few days and then take it on 12th if I feel ready. 
+
