@@ -340,3 +340,12 @@ Steps: 1190/1191
 Time spent: 2 hours
 
 Today I did some revision for the RWD exam. I asked chat GPT to ask me some questions and I copied out a lot of what I need to remember so I can go over it frequently. 
+
+Wednesday 11th February 26'
+
+Steps: 1109/1191
+Time spent: 1 hour
+
+Revison on CSS spent writing out some key points. 
+
+
