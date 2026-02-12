@@ -348,4 +348,10 @@ Time spent: 1 hour
 
 Revison on CSS spent writing out some key points. 
 
+Thursday 12th February 26'
+
+Steps: 1191/1191
+Time spent: 3 hours
+
+Today I did a lot of revision for my exam but I have decided I want to take a bit longer to revise before the big final exam. Because I have completed all of the steps I still got a legacy responsive web design certificate and it says I have done around 300hours of work. I am so proud of myself that I have achieved this and will keep going strong. 
 
