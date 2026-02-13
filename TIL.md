@@ -355,3 +355,8 @@ Time spent: 3 hours
 
 Today I did a lot of revision for my exam but I have decided I want to take a bit longer to revise before the big final exam. Because I have completed all of the steps I still got a legacy responsive web design certificate and it says I have done around 300hours of work. I am so proud of myself that I have achieved this and will keep going strong. 
 
+Friday 13th February 26'
+
+Time spent: 1 hour
+
+Today I uploaded the landing page screenshots from the landing page I built. I used linear gradients, hover, active, translate, grid. I really enjoyed building it. 
