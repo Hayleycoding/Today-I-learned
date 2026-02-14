@@ -360,3 +360,7 @@ Friday 13th February 26'
 Time spent: 1 hour
 
 Today I uploaded the landing page screenshots from the landing page I built. I used linear gradients, hover, active, translate, grid. I really enjoyed building it. 
+
+Saturday 14th February 26'
+
+Today is my daughters birthday so no coding directly, but I can tell you I think about it so much as my test is still outstanding. 
