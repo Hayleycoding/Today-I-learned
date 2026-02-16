@@ -370,3 +370,9 @@ Sunday 15th February 26'
 Time spent: 10 mins
 
 Got chat GPT to quiz me for the main RWD exam. I got 8 out of 10 most of the time so I think I will be ready soon. I want to spend this week practicing and maybe do it at the end of the week or early next wek as the children are off school and it's a lot harder to dedicate time to myself. 
+
+Monday 16th February 26'
+
+Time spent: 1 Hour 
+
+Today I got chat GPT to test me muliple times and I looked up the next steps for my business. I am really excited to get going with it. 
