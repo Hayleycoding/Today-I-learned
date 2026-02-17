@@ -376,3 +376,9 @@ Monday 16th February 26'
 Time spent: 1 Hour 
 
 Today I got chat GPT to test me muliple times and I looked up the next steps for my business. I am really excited to get going with it. 
+
+Tuesday 17th February 26'
+
+Time spent: 2 hours
+
+Today I have been playing aorund with my website and I am going to make it ready so I can launch my business. I will continue to do that this week so it's ready by the end of next week for definate. 
