@@ -382,3 +382,9 @@ Tuesday 17th February 26'
 Time spent: 2 hours
 
 Today I have been playing aorund with my website and I am going to make it ready so I can launch my business. I will continue to do that this week so it's ready by the end of next week for definate. 
+
+Wednesday 18th February 26'
+
+Time spent: 4 hours
+
+Today I am again working on my website. I want to make it look great as it is where I will direct people to convince them I can make them a nice website too. I have really been enjoying building this today. 
