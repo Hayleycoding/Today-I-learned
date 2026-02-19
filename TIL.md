@@ -388,3 +388,7 @@ Wednesday 18th February 26'
 Time spent: 4 hours
 
 Today I am again working on my website. I want to make it look great as it is where I will direct people to convince them I can make them a nice website too. I have really been enjoying building this today. 
+
+Thursday 19th February 26'
+
+Today I have been researching what I need to do to set up my business and what I would eventually charge for my websites. Again as it is half term, I am unable to do as much as I want to right now and next week I have two meetings that will take up some of my precious time. 
