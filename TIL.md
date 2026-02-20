@@ -392,3 +392,9 @@ Today I am again working on my website. I want to make it look great as it is wh
 Thursday 19th February 26'
 
 Today I have been researching what I need to do to set up my business and what I would eventually charge for my websites. Again as it is half term, I am unable to do as much as I want to right now and next week I have two meetings that will take up some of my precious time. 
+
+Friday 20th February 26'
+
+Sorting out more of my website. Changed the CTA button text and some of the font sizing. I am going to add a link to the stackpug logo that is the home button and make the ifrst page the home page then add the links to the other pages. 
+
+
