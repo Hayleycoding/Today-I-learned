@@ -397,4 +397,8 @@ Friday 20th February 26'
 
 Sorting out more of my website. Changed the CTA button text and some of the font sizing. I am going to add a link to the stackpug logo that is the home button and make the ifrst page the home page then add the links to the other pages. 
 
+Saturday 21st February 26'
+
+Had to fix my website as the new pages weren't in the right folder to show the logo. All working fine now. I have an inspection tomorrow so I don't have a lot of time to code today but hopefully I will be able to have a good amount of time tomorrow. 
+
 
