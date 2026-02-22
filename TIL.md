@@ -401,4 +401,8 @@ Saturday 21st February 26'
 
 Had to fix my website as the new pages weren't in the right folder to show the logo. All working fine now. I have an inspection tomorrow so I don't have a lot of time to code today but hopefully I will be able to have a good amount of time tomorrow. 
 
+Sunday 22nd February 26'
+
+Today I have been playing around with my website some more and built a contact form. It is really coming together. Still a lot more work to do but because it is my business to sell websites, I want to make sure mine is perfect. 
+
 
