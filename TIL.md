@@ -405,4 +405,8 @@ Sunday 22nd February 26'
 
 Today I have been playing around with my website some more and built a contact form. It is really coming together. Still a lot more work to do but because it is my business to sell websites, I want to make sure mine is perfect. 
 
+Monday 23rd February 26'
+
+Haven't been able to do much today so I am just adding what I plan to do tomorrow. I am going to write out my services and maintanence and have a bit of revision for my exam so I can pass that and move on to Javascript. I am going to plan to look into shopify, netlify and wordpress. 
+
 
