@@ -409,4 +409,6 @@ Monday 23rd February 26'
 
 Haven't been able to do much today so I am just adding what I plan to do tomorrow. I am going to write out my services and maintanence and have a bit of revision for my exam so I can pass that and move on to Javascript. I am going to plan to look into shopify, netlify and wordpress. 
 
+Tuesday 24th February 26'
 
+Today I have spent hours sorting my website further and started making a demo template for a cleaning company. 
