@@ -411,4 +411,12 @@ Haven't been able to do much today so I am just adding what I plan to do tomorro
 
 Tuesday 24th February 26'
 
-Today I have spent hours sorting my website further and started making a demo template for a cleaning company. 
+Today I have spent hours sorting my website further and started making a demo template website for a cleaning company. 
+
+Wednesday 25th February 26'
+
+Still working on my template. I nievely thought it would be quick to make but I am trying to do it myself without much help from CGPT and it's taking me longer. That is fine because it's all important to learning. 
+
+Thursday 26th February 26'
+
+Been at a meeting so not as much time as I would have liked today but been working on the template. Learning more and more everyday and loving it. The only way to learn is play and this is perfect. Trying not to rush myself and enjoy the process.  
