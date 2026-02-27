@@ -419,4 +419,8 @@ Still working on my template. I nievely thought it would be quick to make but I 
 
 Thursday 26th February 26'
 
-Been at a meeting so not as much time as I would have liked today but been working on the template. Learning more and more everyday and loving it. The only way to learn is play and this is perfect. Trying not to rush myself and enjoy the process.  
+Been at a meeting so not as much time as I would have liked today but been working on the template. Learning more and more everyday and loving it. The only way to learn is play and this is perfect. Trying not to rush myself and enjoy the process. 
+
+Friday 27th February 26'
+
+I could honestly spend hours doing my website. I find it so much fun and even more so when it goes wrong! I couldn;t figure out a layout issue and I kept going until i solved it and I think it was the best feeling. If everything goes right where is the fun in that ?! I have spend literally hours today. I will try and keep track of the amount of time again. 
