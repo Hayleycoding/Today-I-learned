@@ -423,4 +423,20 @@ Been at a meeting so not as much time as I would have liked today but been worki
 
 Friday 27th February 26'
 
-I could honestly spend hours doing my website. I find it so much fun and even more so when it goes wrong! I couldn;t figure out a layout issue and I kept going until i solved it and I think it was the best feeling. If everything goes right where is the fun in that ?! I have spend literally hours today. I will try and keep track of the amount of time again. 
+I could honestly spend hours doing my website. I find it so much fun and even more so when it goes wrong! I couldn;t figure out a layout issue and I kept going until i solved it and I think it was the best feeling. If everything goes right where is the fun in that ?! I have spent literally hours today. I will try and keep track of the amount of time again. 
+
+Saturday 28th February 26'
+
+So I have just been looking at the site and updating and changing what I see fit. I have added a maintenance package and that is looking good.
+
+Sunday 1st March 26'
+
+I have been cleaning up the CSS noticing where I have repeated unneccessarily. I also managed to center my contact us button by making it's own container. I am thinking in containers now !
+
+Monday 2nd March 26'
+
+Added a better SEO and changed p with no br which I learned I didn't need to use. 
+
+Tuesday 3rd March 26'
+
+Today I am not well so I haven't been able to do much but I have had a look at freecodecamps podcasts and I need to catch up on a few. I am always thinking about my site and what I need to do to make it better. I am also having imposter syndrome and worrying it is all for nothing and I should be learning a physical skill because AI is going to just do it all in the future. I really hate thinking about that and it does worry me as we just don't know but I don't want to quit learning so I am thinking maybe I could learn how to take computers apart or some sort of engineering that a person would be needed for. 
