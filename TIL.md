@@ -440,3 +440,7 @@ Added a better SEO and changed p with no br which I learned I didn't need to use
 Tuesday 3rd March 26'
 
 Today I am not well so I haven't been able to do much but I have had a look at freecodecamps podcasts and I need to catch up on a few. I am always thinking about my site and what I need to do to make it better. I am also having imposter syndrome and worrying it is all for nothing and I should be learning a physical skill because AI is going to just do it all in the future. I really hate thinking about that and it does worry me as we just don't know but I don't want to quit learning so I am thinking maybe I could learn how to take computers apart or some sort of engineering that a person would be needed for. 
+
+Wednesday 4th March 26'
+
+Been practising for my RWD exam today. Claude reckons I am ready, so I went to do it but the app wasn't working. Frustrating but I will get it done evenutally. 
