@@ -444,3 +444,9 @@ Today I am not well so I haven't been able to do much but I have had a look at f
 Wednesday 4th March 26'
 
 Been practising for my RWD exam today. Claude reckons I am ready, so I went to do it but the app wasn't working. Frustrating but I will get it done evenutally. 
+
+Thursday 5th February 26'
+
+The app wasnt working again so I wasn't able to do the exam but I am planning tomorrow. I am going to revise and then take the test ! 
+
+
