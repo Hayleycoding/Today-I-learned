@@ -445,8 +445,12 @@ Wednesday 4th March 26'
 
 Been practising for my RWD exam today. Claude reckons I am ready, so I went to do it but the app wasn't working. Frustrating but I will get it done evenutally. 
 
-Thursday 5th February 26'
+Thursday 5th March 26'
 
 The app wasnt working again so I wasn't able to do the exam but I am planning tomorrow. I am going to revise and then take the test ! 
+
+Friday 6th March 26'
+
+I have spent hours today asking claude to test me on what I may see in my RWD exam. I am confident to do it next week. I wanted to make sure I went over everything and will continue for the next few days and definitely do it next week because I want to start on javascript. I also need to make my other sites for portfolio so I need to get it done. 
 
 
