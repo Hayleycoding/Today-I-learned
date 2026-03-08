@@ -453,4 +453,12 @@ Friday 6th March 26'
 
 I have spent hours today asking claude to test me on what I may see in my RWD exam. I am confident to do it next week. I wanted to make sure I went over everything and will continue for the next few days and definitely do it next week because I want to start on javascript. I also need to make my other sites for portfolio so I need to get it done. 
 
+Saturday 7th MArch 26'
+
+Today I got up and started testing myself straight away with Claude. I did it for a good hour. 
+
+Sunday 8th March 26'
+
+More testing with Claude who says I should tke the test. I will next week when I have a nice window of time. 
+
 
