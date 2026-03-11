@@ -464,3 +464,11 @@ More testing with Claude who says I should tke the test. I will next week when I
 Monday 9th March 26'
 
 I have spent a few hours testing myself with Claude. I have been learning some new things that arent on the test which I don't mind. I learnt why it is better to have default font set to 100% to be more accessible and responsive for people who need to change the font size.
+
+Tuesday 10th March 26' 
+
+I learnt about autofill in grid how it will automatically fit and if you do the last one or the featured as 1/-1 it will span what it needs to. More testing for the test.
+
+Wednesday 11th March 26'
+
+I still don't feel ready for the test so I have done some revision today. I will see how I feel for the rest of this week I may do it on Friday if I can get a good revision session in tomorrow. 
