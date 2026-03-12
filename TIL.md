@@ -472,3 +472,7 @@ I learnt about autofill in grid how it will automatically fit and if you do the 
 Wednesday 11th March 26'
 
 I still don't feel ready for the test so I have done some revision today. I will see how I feel for the rest of this week I may do it on Friday if I can get a good revision session in tomorrow. 
+
+Thursday 12th March 26' 
+
+Today I have spent hours revising. I am going to take the plunge and test tomorrow. I am worried I will fail but then I just have to keep trying. I am not giving up. I used chrome for the first time today with dev tools and wow its amazing, I used to mobile version to see what my site looks like. Ypu can learn so much from using it. 
