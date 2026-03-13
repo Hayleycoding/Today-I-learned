@@ -476,3 +476,10 @@ I still don't feel ready for the test so I have done some revision today. I will
 Thursday 12th March 26' 
 
 Today I have spent hours revising. I am going to take the plunge and test tomorrow. I am worried I will fail but then I just have to keep trying. I am not giving up. I used chrome for the first time today with dev tools and wow its amazing, I used to mobile version to see what my site looks like. Ypu can learn so much from using it. 
+
+Friday 13th March 26'
+
+Today I have been testing myself with Claude and I am going to take the test ! I also found out my colour scheme isn't acceptable for standards so I need to decide if I want purple boxes with white font rather than charcoal. Or I can make my text in the purple boxes larger as it would pass 3:1 standards. 
+I went to do my test and I couldn't because they have added more steps to RWD and I have to complete them first :(.
+
+I finished the tasks and then I went for it and took the test. I am not very confident, lots came up that I didn't really recall going over that much especially not in revision, nothing on grid or flex, it was tables, even javascript ! I haven't done that yet so disappointed. Well, now I have done it I can await results and go again. 
