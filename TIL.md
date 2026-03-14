@@ -483,3 +483,9 @@ Today I have been testing myself with Claude and I am going to take the test ! I
 I went to do my test and I couldn't because they have added more steps to RWD and I have to complete them first :(.
 
 I finished the tasks and then I went for it and took the test. I am not very confident, lots came up that I didn't really recall going over that much especially not in revision, nothing on grid or flex, it was tables, even javascript ! I haven't done that yet so disappointed. Well, now I have done it I can await results and go again. 
+
+I PASSED !!!!!! 84% !!!!
+
+Saturday 14th March 26'
+
+Today I am feeling so good that I passed my RWD. I am taking it easy over the weekend although still asking questions about how things work, for example I have bought my own domain and I now need to know I need to link it to netlify. 
