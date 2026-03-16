@@ -489,3 +489,8 @@ I PASSED !!!!!! 84% !!!!
 Saturday 14th March 26'
 
 Today I am feeling so good that I passed my RWD. I am taking it easy over the weekend although still asking questions about how things work, for example I have bought my own domain and I now need to know I need to link it to netlify. 
+
+Sunday 15th March 26'
+
+Seeing as today is Mother's day and I passed my exam on Friday I took the day off. I actually forgot to upload to github on my last blank day that broke my github streak. Today I have started with Javascript and I am buzzing to get going. 
+
