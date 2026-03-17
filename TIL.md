@@ -492,5 +492,18 @@ Today I am feeling so good that I passed my RWD. I am taking it easy over the we
 
 Sunday 15th March 26'
 
-Seeing as today is Mother's day and I passed my exam on Friday I took the day off. I actually forgot to upload to github on my last blank day that broke my github streak. Today I have started with Javascript and I am buzzing to get going. 
 
+
+Seeing as today is Mother's day and I passed my exam on Friday I took the day off. I actually forgot to upload to github on my last blank day that broke my github streak. 
+
+Monday 16th March 26'
+
+Steps: 4/1088
+
+Today I have started with Javascript and I am buzzing to get going. 
+
+Tuesday 17th March 26' 
+
+Steps: 24/1088
+
+I have planned to complete, on average, 24 steps a day so that I can finish Javascript by 1st May. I havane't had as much time as I wanted today but I have got the 24 done and I can come back tomorrow and aim higher if I can. Sometimes it takes longer. 
