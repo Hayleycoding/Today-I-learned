@@ -507,3 +507,9 @@ Tuesday 17th March 26'
 Steps: 24/1088
 
 I have planned to complete, on average, 24 steps a day so that I can finish Javascript by 1st May. I havane't had as much time as I wanted today but I have got the 24 done and I can come back tomorrow and aim higher if I can. Sometimes it takes longer. 
+
+Wednesday 18th March 26'
+
+Steps: 53/1088
+
+Completed my tasks and some today. Really enjoying learning Javascript. 
