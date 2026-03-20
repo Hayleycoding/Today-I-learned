@@ -513,3 +513,15 @@ Wednesday 18th March 26'
 Steps: 53/1088
 
 Completed my tasks and some today. Really enjoying learning Javascript. 
+
+Thursday 19th March 26'
+
+Steps: 101/1088
+
+So annoyed with myself I forgot to git push ! Not liking seeing those grey squares on github. Especially when I have been doing the work.
+
+
+Friday 20th March 26'
+
+Steps:  /1088
+
