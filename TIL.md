@@ -523,5 +523,13 @@ So annoyed with myself I forgot to git push ! Not liking seeing those grey squar
 
 Friday 20th March 26'
 
-Steps:  /1088
+Steps: 113 /1088
+
+Couldn't concentrate today as I had to have a blood test that took up most of the morning and meant I had to starve myself till late morning. 
+
+Saturday 21st March 26'
+
+Steps: 128/1088
+
+Struggling to concentrate today but I learnt how to count binary and convert into numbers or double and half. Hoping I can concnetrate better after a good sleep tonight hopefully!
 
