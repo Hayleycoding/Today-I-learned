@@ -533,3 +533,9 @@ Steps: 128/1088
 
 Struggling to concentrate today but I learnt how to count binary and convert into numbers or double and half. Hoping I can concnetrate better after a good sleep tonight hopefully!
 
+Sunday 22nd March 26'
+
+Steps: 152/1088
+
+I keep forgetting to push to github, I am doing the learning everyday. I am going to start pushing a day behind so I will push first thing and know that I'll be caught up. I made a random number game yesterday. 
+
