@@ -539,3 +539,14 @@ Steps: 152/1088
 
 I keep forgetting to push to github, I am doing the learning everyday. I am going to start pushing a day behind so I will push first thing and know that I'll be caught up. I made a random number game yesterday. 
 
+Monday 23rd March 26'
+
+Steps: 178/1088
+
+Today I made a calculator in JS and went through functions. I do know some of it already like global and local scope. It was nice to remember something from Python. 
+
+Tuesday 24th March 26'
+
+Steps: 191/1088
+
+I have felt rubbish today. I have had a lot of Javascript that I didn't really know what to do and had to ask Claude to help me figure it out. Tomorrow I am going to get Claude to test me on it all as I want to move on feeling that I know what I am doing. i know I will get there because I have done it with HTML and CSS. 
