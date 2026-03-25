@@ -550,3 +550,9 @@ Tuesday 24th March 26'
 Steps: 191/1088
 
 I have felt rubbish today. I have had a lot of Javascript that I didn't really know what to do and had to ask Claude to help me figure it out. Tomorrow I am going to get Claude to test me on it all as I want to move on feeling that I know what I am doing. i know I will get there because I have done it with HTML and CSS. 
+
+Wednesday 25th March 26'
+
+Steps: 219/1088
+
+Today was a mixture of functions and arrays, slicing, indexing, push, pop, shift, unshift. 
