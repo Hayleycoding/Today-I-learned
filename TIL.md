@@ -556,3 +556,17 @@ Wednesday 25th March 26'
 Steps: 219/1088
 
 Today was a mixture of functions and arrays, slicing, indexing, push, pop, shift, unshift. 
+
+Thursday 26th March 26'
+
+Steps: 227/1088
+
+Slowing down as it gets trickier. Frustrating as I want to move forward but I need to take the time.
+
+Friday 27th March 26'
+
+Steps: 236/1088
+
+Oh today I was stuck and it was hard. I had to make a cargo manifest and I didn't understand much of it. I went through it with Claude and I eneded up understanding but I was frustrated as I don't have that kind of code in me yet. I need to be more patient I started 11 days ago. I will get there. 
+
+
