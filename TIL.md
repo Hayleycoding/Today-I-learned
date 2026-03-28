@@ -569,4 +569,10 @@ Steps: 236/1088
 
 Oh today I was stuck and it was hard. I had to make a cargo manifest and I didn't understand much of it. I went through it with Claude and I eneded up understanding but I was frustrated as I don't have that kind of code in me yet. I need to be more patient I started 11 days ago. I will get there. 
 
+Saturday 28th March 26'
+
+Bit of an easier day today, making functions and objects with recipes. Needed that as yesterday really took a lot of my confidence and gave it all to the imposter syndrome. I won't quit, I was here with HTML/CSS and I made my own website and understand a lot of it. All you need is to put in the hours. 
+
+
+
 
