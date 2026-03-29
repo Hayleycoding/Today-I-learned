@@ -571,8 +571,14 @@ Oh today I was stuck and it was hard. I had to make a cargo manifest and I didn'
 
 Saturday 28th March 26'
 
+Steps: 252/1088
+
 Bit of an easier day today, making functions and objects with recipes. Needed that as yesterday really took a lot of my confidence and gave it all to the imposter syndrome. I won't quit, I was here with HTML/CSS and I made my own website and understand a lot of it. All you need is to put in the hours. 
 
+Sunday 29th March 26'
 
+Steps: 269/1088
+
+Harder day doing functions with loops, while, do, had to use trim, split, !== destructuring.
 
 
