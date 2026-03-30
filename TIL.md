@@ -581,4 +581,10 @@ Steps: 269/1088
 
 Harder day doing functions with loops, while, do, had to use trim, split, !== destructuring.
 
+Monday 30th March 26'
+
+Steps: /1089
+
+I feel like my head is going to explode although I am finding it easier to know where to put things as I have seen it a few times. It is literally just repeating writing with different things like splice etc. Seeing what you can do with code and functions. 
+
 
