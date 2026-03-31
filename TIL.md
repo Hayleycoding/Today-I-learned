@@ -583,8 +583,14 @@ Harder day doing functions with loops, while, do, had to use trim, split, !== de
 
 Monday 30th March 26'
 
-Steps: /1089
+Steps: 301/1089
 
 I feel like my head is going to explode although I am finding it easier to know where to put things as I have seen it a few times. It is literally just repeating writing with different things like splice etc. Seeing what you can do with code and functions. 
+
+Tuesday 31st March 26'
+
+Steps: 305 /1089
+
+I have only completed 4 steps today, but I am so proud of myself because I asked Claude to test me and I understood a lot. I actually really enjoy it asking me if I know this or that and get a buzz when I understand it. This is how I know this is for me, this life, coding, I just hpe I can use it properly and make myself a decent wage from it. 
 
 
