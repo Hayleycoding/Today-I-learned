@@ -591,6 +591,11 @@ Tuesday 31st March 26'
 
 Steps: 305 /1089
 
-I have only completed 4 steps today, but I am so proud of myself because I asked Claude to test me and I understood a lot. I actually really enjoy it asking me if I know this or that and get a buzz when I understand it. This is how I know this is for me, this life, coding, I just hpe I can use it properly and make myself a decent wage from it. 
+I have only completed 4 steps today, but I am so proud of myself because I asked Claude to test me and I understood a lot. I actually really enjoy it asking me if I know this or that and get a buzz when I understand it. This is how I know this is for me, this life, coding, I just hope I can use it properly and make myself a decent wage from it. 
 
 
+Wednesday 1st April 26'
+
+Steps: 310/1089
+
+Today I did 5 steps and tested myself loads. I kept getting Claude to ask me to write functions. I really enjoy testing my knowledge. It makes me think. 
