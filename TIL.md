@@ -599,3 +599,9 @@ Wednesday 1st April 26'
 Steps: 310/1089
 
 Today I did 5 steps and tested myself loads. I kept getting Claude to ask me to write functions. I really enjoy testing my knowledge. It makes me think. 
+
+Thursday 2nd April 26'
+
+Steps: 310/1089
+
+Today I have been working on my portfolio and my website. I have made two cleaning landing pages with Claude and they are different colour schemes. I will upload them to my portfolio and carry on making landing pages then move on to websites. I want to start offering them to business' so I want to get this done. 
