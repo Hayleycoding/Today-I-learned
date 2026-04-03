@@ -605,3 +605,5 @@ Thursday 2nd April 26'
 Steps: 310/1089
 
 Today I have been working on my portfolio and my website. I have made two cleaning landing pages with Claude and they are different colour schemes. I will upload them to my portfolio and carry on making landing pages then move on to websites. I want to start offering them to business' so I want to get this done. 
+
+Friday 3rd April 26'
