@@ -607,3 +607,49 @@ Steps: 310/1089
 Today I have been working on my portfolio and my website. I have made two cleaning landing pages with Claude and they are different colour schemes. I will upload them to my portfolio and carry on making landing pages then move on to websites. I want to start offering them to business' so I want to get this done. 
 
 Friday 3rd April 26'
+
+Steps: 310/1089
+
+Working on my website so that I start offering services whilst still continuing to learn Javascript. 
+
+Saturday 4th April 26'
+
+Steps: 310/1089
+
+Working on my website so that I start offering services whilst still continuing to learn Javascript. 
+
+Sunday 5th April 26'
+
+Steps: 310/1089
+
+Fixing gaps on my website. I have been using inspect on chrome and it is brilliant, so helpful.
+
+Monday 6th April 26'
+
+Steps: 310/1089
+
+Playing around fixing gaps on my website.
+
+Tuesday 7th April 26'
+
+Steps: 310/1089
+
+Going over my site making it look better.
+
+Wednesday 8th April 26'
+
+Steps: 310/1089
+
+Updated my website packages and prices. 
+
+Thursday 9th April 26'
+
+Steps: 310/1089
+
+I have still been working on my wesbite. I will try and get back into Javascript next week. 
+
+Friday 10th April 26'
+
+Steps: 310/1089
+
+Updated my form with a recaptcha and added min length to message box to try and avoid spam. 
