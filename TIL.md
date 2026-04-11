@@ -653,3 +653,9 @@ Friday 10th April 26'
 Steps: 310/1089
 
 Updated my form with a recaptcha and added min length to message box to try and avoid spam. 
+
+Saturday 11th April 26'
+
+Steps: 310/1089
+
+Too much to do mum wise today so nothing worthwile done. Just made to do lists of what I need to achieve for the future. 
