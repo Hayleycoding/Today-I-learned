@@ -659,3 +659,9 @@ Saturday 11th April 26'
 Steps: 310/1089
 
 Too much to do mum wise today so nothing worthwile done. Just made to do lists of what I need to achieve for the future. 
+
+Sunday 12th April 26'
+
+Steps: 310/1089
+
+I made a business card and a facebook ad. I've had some imposter syndrome thinking how can I expect to get any clients, then keep them happy with what I build. Claude said if they like the look of my card or advert and like the look of my website then they will see what I can do on there. It's not about my brain telling me I am rubbish. I am dedicated. 
