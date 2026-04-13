@@ -665,3 +665,7 @@ Sunday 12th April 26'
 Steps: 310/1089
 
 I made a business card and a facebook ad. I've had some imposter syndrome thinking how can I expect to get any clients, then keep them happy with what I build. Claude said if they like the look of my card or advert and like the look of my website then they will see what I can do on there. It's not about my brain telling me I am rubbish. I am dedicated. 
+
+Monday 13th April 26'
+
+Today I started on my builder landing page. It isn't as hard as I thought, the hardest part for me is having ideas but it doesn't take long to get inspired online. 
