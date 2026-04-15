@@ -669,3 +669,11 @@ I made a business card and a facebook ad. I've had some imposter syndrome thinki
 Monday 13th April 26'
 
 Today I started on my builder landing page. It isn't as hard as I thought, the hardest part for me is having ideas but it doesn't take long to get inspired online. 
+
+Tuesday 14th April 26'
+
+Builder page is finished! I used the template for the cleaning one and chnaged it about a bit. The last one I do I want it to be completely different. I will look about and see if I can get inspired. 
+
+Wednesday 15th April 26'
+
+Did many, many hours sorting lots of images resizing, improving website loading, lost hours of work ! Oh well. I haven't lost those hours learning, always learning! 
