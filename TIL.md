@@ -677,3 +677,20 @@ Builder page is finished! I used the template for the cleaning one and chnaged i
 Wednesday 15th April 26'
 
 Did many, many hours sorting lots of images resizing, improving website loading, lost hours of work ! Oh well. I haven't lost those hours learning, always learning! 
+
+Thursday 16th April 26'
+
+Still making my site better added both portfolio in browser windows, contemplating the mobile view, think I should add that.
+
+Friday 17th April 26'
+
+Portfolio is looking good I don't think I need to put it off anymore I can go live and find clients.
+
+Saturday 18th April 26' 
+ - 
+Monday 20th April 26'
+-
+Tuesday 21st April 26'
+
+Had a few days off as I haven't for a long time. Just thinking about how I am going to approach people. I am going to continue to build and learn Javascript. I am scared to look for real work but I will soon.
+I have a lot of appointments this week so I can get stuck in properly next week. 
