@@ -695,6 +695,10 @@ Tuesday 21st April 26'
 Had a few days off as I haven't for a long time. Just thinking about how I am going to approach people. I am going to continue to build and learn Javascript. I am scared to look for real work but I will soon.
 I have a lot of appointments this week so I can get stuck in properly next week. 
 
-Saturday 22nd April 26'
+Saturday 25th April 26'
 
 Today I started on my third one page website focusing on hairdressing. I created a logo then I used my previous code and started changing it about so it looks different to the others. 
+
+Sunday 26th April 26'
+
+Finishing my hairdressing page. Enjoying playing around with it. Got myself overwhelmed thinking what is the point and no-one will buy from me but I am going to continure to keep building and playing around and learning anyway. Taking it a day at a time. 
