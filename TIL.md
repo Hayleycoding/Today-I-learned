@@ -702,3 +702,11 @@ Today I started on my third one page website focusing on hairdressing. I created
 Sunday 26th April 26'
 
 Finishing my hairdressing page. Enjoying playing around with it. Got myself overwhelmed thinking what is the point and no-one will buy from me but I am going to continure to keep building and playing around and learning anyway. Taking it a day at a time. 
+
+Monday 27th April 26'
+
+I didn't finish it yesterday but hoping I will today. Got a few health things going on right now which need to come first. 
+
+Monday 4th May 26'
+
+I haven't done much been planning on offering my services online. I may start tomorrow or Wednesday. I think I am ready. I have been looking at competitors and found one who charges £300 and offers a demo up front. I think I will do the same. 
