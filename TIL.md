@@ -709,4 +709,8 @@ I didn't finish it yesterday but hoping I will today. Got a few health things go
 
 Monday 4th May 26'
 
-I haven't done much been planning on offering my services online. I may start tomorrow or Wednesday. I think I am ready. I have been looking at competitors and found one who charges £300 and offers a demo up front. I think I will do the same. 
+I haven't done much been planning on offering my services online. I may start tomorrow or Wednesday. I think I am ready. I have been looking at competitors and found one who charges £300 and offers a demo up front. I think I will do the same.
+
+Tuesday 12th May 26'
+
+Lighthouse check on my brother's site. Been AWOL a bit as I have a new set up and a few things going on outside of coding. I want to get back to it properly now though even if it is a little bit a day for a while. 
