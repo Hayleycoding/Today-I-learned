@@ -714,3 +714,7 @@ I haven't done much been planning on offering my services online. I may start to
 Tuesday 12th May 26'
 
 Lighthouse check on my brother's site. Been AWOL a bit as I have a new set up and a few things going on outside of coding. I want to get back to it properly now though even if it is a little bit a day for a while. 
+
+Tuesday 19th May 26'
+
+Sorted out my facebook cover photo. Changed the username for the link on facebook. 
