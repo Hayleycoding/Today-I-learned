@@ -722,3 +722,7 @@ Sorted out my facebook cover photo. Changed the username for the link on faceboo
 Saturday 23rd May 26'
 
 Today I decided I need to be doing daily quizzes to keep up with my learning as I don't want to forget. I have made a PDF for myself to follow daily, weekly and monthly learning. I am going to focus back on Javascript even if it is ten mins a day along with the quiz and figure out how to reach out to potential clients for websites. What stops me is that there is so much competition out there and I am new so I need to work harder to get the first few in the bag which I am going to figure out. 
+
+Sunday 24th May 26'
+
+8/10 on my quiz today. I will take that I have been a bit awol but I am back on it. It has been a bit difficult juggling home and learning but I have realised something is better than nothing and I get a dopamine boost from the learning. 
