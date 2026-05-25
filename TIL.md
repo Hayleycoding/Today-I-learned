@@ -726,3 +726,7 @@ Today I decided I need to be doing daily quizzes to keep up with my learning as 
 Sunday 24th May 26'
 
 8/10 on my quiz today. I will take that I have been a bit awol but I am back on it. It has been a bit difficult juggling home and learning but I have realised something is better than nothing and I get a dopamine boost from the learning. 
+
+Monday 25th May 26'
+
+3 quizzes today 9/10, 7/10, 8/10. Javascript and HTML, CSS. I feel good about this that I am remembering and that this will keep me on top of it so I feel like I can make progress. I just genuinely enjoy knowing this stuff. 
